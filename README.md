@@ -23,6 +23,6 @@ Usage
 - -L: Use the Least Recently Used (LRU) policy.
 - -C: Use the Clock policy.
 
-Execution
+Execution  
 $ ./cacher [-N size] [policy]
 
